@@ -1,6 +1,6 @@
 <img src="/assets/ClimbersEyeLogoWhiteBackground.svg" width="500">
 
-**Stage: Pre-Release**
+**Stage: Pre-Release (Internal Testing through App Store Connect)**
 
 **App images below**
 
@@ -28,6 +28,7 @@ Full stack application:
 - Amazon S3 Buckets
 - AWS RDS
 - Heroku
+- App Store Connect
 
 # Features
 Secure authentication with Django sessions and CSRF tokens.
